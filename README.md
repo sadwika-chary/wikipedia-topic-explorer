@@ -31,7 +31,7 @@ Follow these steps to install and run the application locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mujjasaikumar/Wikipedia-Topic-Explorer.git
+   git clone https://github.com/sadwika-chary/wikipedia-topic-explorer.git
    ```
 
 2. Install dependencies:
@@ -76,10 +76,6 @@ Follow these steps to install and run the application locally:
 ## Scope of Improvement
 - **Improved JSON Output**: Currently, the paraphrased and summarized data is displayed in JSON format. Consider enhancing the output format to make it more user-friendly, such as formatting the text for better readability or providing additional context.
 
-## Deployment
-
-This code is hosted on [https://wiki-summarisation-paraphrasing.onrender.com](https://wiki-summarisation-paraphrasing.onrender.com).
-
 ## Technologies Used
 
 - Python
@@ -89,4 +85,4 @@ This code is hosted on [https://wiki-summarisation-paraphrasing.onrender.com](ht
 
 ## Contributors
 
-- Saikumar Mujja
+- Sadwika Chary
